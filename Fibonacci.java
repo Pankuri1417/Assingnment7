@@ -15,5 +15,6 @@ public class Fibonacci
 			n2=n3;
 		}
 
+//okay
 	}
 }
